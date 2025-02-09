@@ -1,4 +1,4 @@
-# Small GPT Model with Prompt-Based Text Generation
+<img width="1020" alt="image" src="https://github.com/user-attachments/assets/a8c0a31e-30ed-4a95-a2a9-082efb9319df" />
 
 ## Overview
 This project provides a simple GPT-style language model for local execution. You can train it on any text dataset and generate context-relevant outputs based on prompts. While the provided example uses the Bible, any text source can be used.
